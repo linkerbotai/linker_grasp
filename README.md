@@ -1,3 +1,7 @@
+# This project has been moved to the new address, please visit https://github.com/linker-bot/linkerhand-fixed-grasp
+
+------
+
 # linker_grasp
 
 ## FixedGrasp
